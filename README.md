@@ -1,5 +1,11 @@
 # Espressif SDK Capacitor Plugin
 
+> **Note**
+> 
+> This repository has been archived and is no longer maintained.
+> 
+> See the status [here](#status).
+
 ## Table of contents
 * [General info](#general-info)
 * [Prerequisites](#prerequisites)
@@ -133,9 +139,10 @@ To-do:
  * Check/Prompt for Bluetooth to be enabled.
 
 ## Status
-Project is: _in progress_
+Project is: _archived_
 
-This is currently still in development. The current version is usable and stable, but could use some internal cleanup and improvements.
+This repository has been archived and is no longer maintained.
+This project has been continued as [twomes-app-needforheat-eup](https://github.com/energietransitie/twomes-app-needforheat-eup).
 
 ## License
 This software is available under the [Apache 2.0 license](./LICENSE), Copyright 2021 [Research group Energy Transition, Windesheim University of Applied Sciences](https://windesheim.nl/energietransitie) 
